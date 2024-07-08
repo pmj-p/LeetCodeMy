@@ -41,7 +41,8 @@ public class ThreeSolution {
     }
 
     /**
-     * 哈希表：1、先去重；2、
+     * 哈希表：1、先去重；2、再判断set集合中是否有连续
+     * 时间复杂度：O(n) 空间复杂度：O(n)
      * @param nums
      * @return
      */
